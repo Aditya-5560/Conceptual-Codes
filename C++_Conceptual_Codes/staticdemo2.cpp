@@ -35,6 +35,5 @@ int main()
 
     Demo :: gun();
 
-
     return 0;
 }
